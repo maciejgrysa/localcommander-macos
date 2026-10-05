@@ -29,10 +29,10 @@ TypeScript, Node.js, Model Context Protocol, macOS automation, SQLite-backed sta
 - production API keys and private host identifiers are excluded from this portfolio snapshot
 - file and process operations are exposed through explicit tools rather than implicit access
 
-## Development
-Install dependencies with npm ci and run npm test. See the source and docs directories for the tool catalogue and architecture details.
+## Source access
+
+The complete implementation is kept in a private source archive. For serious commercial discussions, a live walkthrough, architecture review, or controlled private code review can be arranged.
 
 ## Usage and licensing
 
-This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [LICENSE.md](LICENSE.md).
-
+This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [PROPRIETARY-NOTICE.md](PROPRIETARY-NOTICE.md).
